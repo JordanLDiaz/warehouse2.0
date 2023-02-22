@@ -1,0 +1,13 @@
+body {
+  background-color: rgba(46, 157, 190, 0.671);
+}
+
+.text-shadow {
+  text-shadow: 2px 2px 2px rgb(48, 48, 48);
+}
+
+.card {
+  background-color: rgb(26, 95, 116);
+  color: white;
+  min-height: 20vh;
+}
